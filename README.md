@@ -1,2 +1,2 @@
 # allTimerVer1
-Simple timer for iOS, next version will redesign and add new functions 
+Simple timer for iOS
